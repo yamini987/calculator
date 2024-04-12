@@ -1,0 +1,60 @@
+h1{
+    color: darkgreen;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+p{
+    color: darkgreen;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+#free{
+    padding: 1px 5px;
+    margin: 0px;
+    border: 1px solid darkgreen;
+    background-color: green;
+    color: white;
+    display: inline;
+}
+#sentence {
+    padding: 2px 2px;
+    margin: 2px 2px;
+    border: 1px solid black;
+    display: inline;
+    color: darkgreen;
+}
+.container{
+    width: 98%;
+    height: 500px;
+    margin: 0 auto;
+    position: absolute;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    height: 180px;
+    left: 40%;
+    margin: 10px 127px;
+    padding: 5px;
+}
+.circle1{
+    width: 26%;
+    height: 98%;
+    border-radius: 50%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(12, 77, 51);
+    text-align: center;
+}
+.circle1 p{
+    color: aliceblue;
+    top: 30%;
+    padding: 40px 38px;
+}
+
+
+
+  
+
